@@ -54,7 +54,7 @@ const Contact = () => {
                   <MapPin size={22} />
                   <div>
                     <h4>العنوان</h4>
-                    <span>العاشر من رمضان، مجمع 21</span>
+                    <span>العاشر من رمضان، مج 21</span>
                   </div>
                 </div>
                 <div className={styles.infoItem}>

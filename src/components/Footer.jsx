@@ -77,7 +77,7 @@ const Footer = () => {
               <ul className={styles.contactInfo}>
                 <li>
                   <MapPin size={18} />
-                  <span>العاشر من رمضان، مجمع 21</span>
+                  <span>العاشر من رمضان، مج 21</span>
                 </li>
                 <li>
                   <Phone size={18} />
